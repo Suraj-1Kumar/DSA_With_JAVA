@@ -1,6 +1,6 @@
 package DSA.skills;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 class Algebra {
     int a; 

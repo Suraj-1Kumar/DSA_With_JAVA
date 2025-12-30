@@ -258,10 +258,12 @@ public class ArrayPractice {
         // Find second maximum value in Array
         System.out.println();
         System.out.print("Second maximum value in the array is: ");
-        System.out.println(obj.findSecondMax(arr));  
+        System.out.println(Solution.findSecondMax(arr));  
 
         // firstRepeating() calling
         System.out.println();
-        System.out.println("First repeating value in array is: " + obj.firstRepeating(arr));
+        System.out.println("First repeating value in array is: " + Solution.firstRepeating(arr));
+
+        sc.close();
     }
 }    
