@@ -39,5 +39,7 @@ public class PrefixSuffix {
         }
 
         System.out.println("Equal partition possible: " + equalSumPartition(arr));
+
+        sc.close();
     }
 }

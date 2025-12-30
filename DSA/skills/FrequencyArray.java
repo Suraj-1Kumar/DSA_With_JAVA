@@ -39,5 +39,6 @@ public class FrequencyArray {
             }
             q--;
         }
+        sc.close();
     }
 }

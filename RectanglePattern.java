@@ -15,5 +15,7 @@ public class RectanglePattern {
 		int m = sc.nextInt();
 
         printRectanglePattern(n, m);
+
+        sc.close();
     }
 }

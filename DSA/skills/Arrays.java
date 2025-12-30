@@ -83,5 +83,7 @@ public class Arrays {
         //ad.sum();
         //ad.maxNum();
         ad.returnIndex(choice);
+
+        sc.close();
     }
 }

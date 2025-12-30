@@ -16,5 +16,7 @@ public class PyramidPattern {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }

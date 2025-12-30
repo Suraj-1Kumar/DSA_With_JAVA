@@ -9,5 +9,7 @@ public class DigitsInNumber {
             count++;
         }
         System.out.println("Number of digits in the number is: "+count);
+
+        sc.close();
     }
 }

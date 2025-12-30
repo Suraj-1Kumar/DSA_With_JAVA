@@ -65,5 +65,7 @@ public class PrefixSumApproach {
         System.out.println("SuffixSum Array");
         int[] suffixsum = suffixSum(arr);
         printArray(suffixsum);
+
+        sc.close();
     }
 }

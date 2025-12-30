@@ -16,5 +16,7 @@ public class Factoial {
 
         //function calling
         factorial(num);
+
+        sc.close();
     }
 }

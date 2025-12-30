@@ -17,5 +17,7 @@ public class RaisePower {
 
         //Function calling
         raisePower(base, power);
+
+        sc.close();
     }
 }

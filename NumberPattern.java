@@ -11,5 +11,7 @@ public class NumberPattern {
 		    }
 		    System.out.println();
 		}
+
+		sc.close();
     }
 }

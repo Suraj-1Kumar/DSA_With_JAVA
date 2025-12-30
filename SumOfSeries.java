@@ -19,5 +19,7 @@ public class SumOfSeries {
 
         // Function calling
         sumOfSeries(num);
+
+        sc.close();
     }
 }

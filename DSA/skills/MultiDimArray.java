@@ -45,5 +45,7 @@ public class MultiDimArray {
         System.out.println("Input array is:");
         printArray(arr);
 
+        sc.close();
+
     }
 }

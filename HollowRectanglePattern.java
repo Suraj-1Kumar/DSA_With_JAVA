@@ -15,5 +15,7 @@ public class HollowRectanglePattern {
 		    }
 		    System.out.println();
 		}
+
+        sc.close();
     }
 }

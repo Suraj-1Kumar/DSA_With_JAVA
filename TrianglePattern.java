@@ -10,5 +10,7 @@ public class TrianglePattern {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }

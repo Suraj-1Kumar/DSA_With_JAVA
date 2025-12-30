@@ -135,5 +135,7 @@ public class TwoPointerApporach {
         System.out.println("Non-increasing sorted square array: ");
         
         printArray(ans);
+
+        sc.close();
     }
 }

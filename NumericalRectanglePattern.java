@@ -14,5 +14,7 @@ public class NumericalRectanglePattern {
             System.out.println();
         }
 
+        sc.close();
+
     }
 }

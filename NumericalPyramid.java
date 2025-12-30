@@ -21,5 +21,7 @@ public class NumericalPyramid {
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }

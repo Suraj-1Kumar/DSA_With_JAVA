@@ -17,5 +17,7 @@ public class ReverseOfNumber {
         // Function calling
         System.out.println("Reverse of the number is: ");
         reverse(num);
+
+        sc.close();
     }
 }

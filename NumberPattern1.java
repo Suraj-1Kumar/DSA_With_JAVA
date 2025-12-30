@@ -17,5 +17,7 @@ public class NumberPattern1 {
 		    }
 		    System.out.println();
 		}
+
+		sc.close();
     }
 }

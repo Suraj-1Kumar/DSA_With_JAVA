@@ -25,5 +25,6 @@ class B extends A{
 public class Constructors {
     public static void main(String[] args) {
         B obj = new B(5);
+        
     }
 }

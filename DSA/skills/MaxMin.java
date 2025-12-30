@@ -55,5 +55,7 @@ public class MaxMin {
         
         System.out.println("Second Max element: " + secondMax(arr, n));
         System.out.println("Second min element: " + secondMin(arr, n));
+
+        sc.close();
     }
 }

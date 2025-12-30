@@ -17,6 +17,8 @@ public class SumOfDigit {
 
         //Function calling
         sumOfDigit(num);
+
+        sc.close();
     }
 }
 

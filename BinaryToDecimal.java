@@ -14,5 +14,7 @@ public class BinaryToDecimal {
             pw = pw * 2;
         }
         System.out.println(ans);
+
+        sc.close();
     }
 }
